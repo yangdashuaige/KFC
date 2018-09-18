@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="KFC:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/KFC_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="KFC/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="KFC" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="G:/高博/软件相关/jar包/DBCP/commons-pool-1.5.6-bin/commons-pool-1.5.6/commons-pool-1.5.6.jar" />
+          <element id="file-copy" path="G:/高博/软件相关/jakarta-taglibs-standard-1.1.2/lib/standard.jar" />
+          <element id="file-copy" path="G:/高博/软件相关/jar包/mysql-connector-java-5.1.7-bin.jar" />
+          <element id="file-copy" path="G:/高博/软件相关/jakarta-taglibs-standard-1.1.2/lib/jstl.jar" />
+          <element id="file-copy" path="G:/高博/软件相关/jar包/DBCP/commons-dbcp-1.4-bin/commons-dbcp-1.4/commons-dbcp-1.4.jar" />
+          <element id="file-copy" path="G:/高博/软件相关/jarbao/DBCP/commons-pool-1.5.6.jar" />
+          <element id="file-copy" path="G:/高博/软件相关/jarbao/mysql-connector-java-5.1.7-bin.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
